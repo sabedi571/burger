@@ -1,0 +1,70 @@
+body {
+    background-image: url("../images/");
+    background-size: 100%;
+    background-color:	#c2cad2;
+}
+
+.titleText {
+    text-align: center;
+    color: rgb(0, 72, 255);
+    font-size: 100px;
+    font-family: 'Cabin Condensed', sans-serif;
+   
+}
+
+.miniHeading {
+    color: rgb(0, 72, 255);;
+    text-align: center;
+    font-size: 38px;
+    font-family: 'Cabin Condensed', sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.addBurger {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.krabbyPatty {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.moveMe {
+    text-align: center;
+    margin: 0 auto 3% 0;
+
+}
+
+
+.showBurger {
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Cabin Condensed', sans-serif;
+}
+
+.devourBurger
+{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Cabin Condensed', sans-serif;
+
+}
+
+.btn {
+    padding-top: 0px;
+}
+
+p {
+    color: rgba(2, 100, 220, 0.811);
+}
+
+.pic {
+    width: 20px;
+    height: 20px;
+}
+
