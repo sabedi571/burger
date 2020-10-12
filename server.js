@@ -1,5 +1,3 @@
-
-//require express
 var express = require("express");   
 //require express-handlebars
 var exphbs = require("express-handlebars");    
